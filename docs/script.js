@@ -248,20 +248,7 @@ const EXAMPLES = [
     c: ''
   },
   {
-    label: 'Example 2 (medium)',
-    e: '2621',
-    n: '8927',
-    c: ''
-  },
-  {
-    label: 'Example 3 (CTF-style)',
-    // d is small: d=3  p=9539 q=9547  n=91102433  phi=91083348  e=...
-    e: '60728973',
-    n: '91102433',
-    c: ''
-  },
-  {
-    label: 'Example 4 (with ciphertext)',
+    label: 'Example 2 (with ciphertext)',
     e: '17993',
     n: '90581',
     c: '18395'
