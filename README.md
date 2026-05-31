@@ -57,9 +57,16 @@ python attack.py
 
 ## Project Structure
 
-- `attack.py` - Python reference implementation of Wiener’s attack
-- `docs/` - Browser-based calculator and supporting frontend files
-- `README.md` - Project overview and usage guide
+- `attack.py`: Python reference implementation of Wiener’s attack (command-line)
+- `attack.md`: Additional notes and examples for the Python implementation
+- `THEORY.md`: Mathematical background and detailed explanation of Wiener’s attack
+- `examples.txt`: Example RSA keys, parameters, and sample runs for testing
+- `docs/`: Browser-based calculator and supporting frontend files
+	- `docs/index.html`: Interactive calculator UI
+	- `docs/script.js`: BigInt-based attack logic and UI wiring
+	- `docs/styles.css`: Styles for the demo
+- `LICENSE`: Project license (MIT)
+- `README.md`: Project overview and usage guide (this file)
 
 ## Learn The Math
 
